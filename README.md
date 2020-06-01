@@ -36,6 +36,8 @@ pip3 install --upgrade seeed-python-Ds18b20
 
 ## Usage
 
+connect Ds18b20 to D5 at BaseHat.
+
 ```python
 import seeed_ds18b20
 import time
